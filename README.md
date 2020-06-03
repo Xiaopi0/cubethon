@@ -1,5 +1,3 @@
-# Cubethon
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,6 +11,7 @@
     </script>
  </head>
  <body>
+    <p>Cubethon</p>
     <div class="webgl-content">
       <div id="unityContainer" style="width: 960px; height: 600px"></div>
       <div class="footer">
