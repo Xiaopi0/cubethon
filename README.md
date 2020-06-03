@@ -1,2 +1,2 @@
 # Cubethon
-[Game](/game)
+[Game](/cubethon/game)
