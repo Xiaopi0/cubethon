@@ -8,3 +8,4 @@ Press A(Left) and D(Right) to control.
 ```
 ### The following picture was edited in Microsoft Paint
 ![Obstacles](/assets/pictures/image002.png)
+[Home](https://xiaop0.github.io)
